@@ -1,5 +1,5 @@
 name: timothee_converter_hw
-description: A new Flutter package project.
+description: My package flutter timotheeconverterhw You can convert with lot of unity the length and the mass between english and others unity
 version: 0.0.1
 homepage: https://github.com/TimotheePopesco
 
@@ -10,7 +10,6 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  font_awesome_flutter: ^8.8.1
 
 dev_dependencies:
   flutter_test:
@@ -22,8 +21,6 @@ dev_dependencies:
 
 # The following section is specific to Flutter packages.
 flutter:
-  assets:
-    - assets/
 
   # To add assets to your package, add an assets section, like this:
   # assets:
